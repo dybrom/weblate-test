@@ -1,8 +1,11 @@
 {
-    "GENERAL": "General",
-    "TIME": "Time",
-    "WINDOW": "Window",
-    "NEW": "New",
-    "key": "value",
-    "NEW_KEY": "New Value"
+  "GENERAL": "General",
+  "TIME": "Time",
+  "WINDOW": "Window",
+  "NEW": "New",
+  "key": "value",
+  "NEW_KEY": "New Value",
+  "nestedTest": {
+    "working": "Working"
+  }
 }
