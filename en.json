@@ -1,6 +1,8 @@
 {
-  "GENERAL": "General",
-  "TIME": "Time",
-  "WINDOW": "Window",
-  "NEW": "New"
+    "GENERAL": "General",
+    "TIME": "Time",
+    "WINDOW": "Window",
+    "NEW": "New",
+    "key": "value",
+    "NEW_KEY": "New Value"
 }
